@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Notificacion_App_AC</string>
+    <string name="notificacion_basica">Notificación básica</string>
+
 </resources>
