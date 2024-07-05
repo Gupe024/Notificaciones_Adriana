@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Notificacion_App_AC</string>
     <string name="notificacion_basica">Notificación básica</string>
-
+    <string name="toast_basico">Toast básico</string>
+    <string name="toast_personalizado">Toast personalizado</string>
+    <string name="Descripcion">Descripcion del icono</string>
+    <string name="text">Ejemplo del toast personalizado exitoso</string>
 </resources>
